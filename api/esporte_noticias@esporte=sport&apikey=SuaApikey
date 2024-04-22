@@ -1,0 +1,23 @@
+{
+  "status": 400,
+  "message": "De acordo com o esporte selecionado, não é possível encontrar resultados exatos sobre. Por favor, verifique o tipos disponíveis abaixo para obter resultados exatos sobre o esporte!",
+  "esportes": [
+    "futebol",
+    "basquete",
+    "volei",
+    "tenis",
+    "atletismo",
+    "natacao",
+    "ciclismo",
+    "boxe",
+    "beisebol",
+    "judo",
+    "ginastica-artistica",
+    "futebol-americano",
+    "futsal",
+    "golfe",
+    "surfe",
+    "skate",
+    "formula-1"
+  ]
+}
